@@ -1,0 +1,28 @@
+p, td, a, center, div {
+	font-family: verdana;
+	font-size: 11px;
+	line-height: 19px;
+}
+
+a {
+	color:#5BA356; 
+	text-decoration: none; 
+	font-weight:bold; 
+	font-family: verdana; 
+	font-size: 10px;
+}
+
+a:hover {
+	color: #41723C;
+	cursor:crosshair;
+}
+
+body{
+	scrollbar-face-color: #FCD6D6; 
+	scrollbar-shadow-color: #000000; 
+	scrollbar-highlight-color: #000000; 
+	scrollbar-3dlight-color: #000000; 
+	scrollbar-darkshadow-color: #000000; 
+	scrollbar-track-color: #000000; 
+	scrollbar-arrow-color: #000000;
+}
